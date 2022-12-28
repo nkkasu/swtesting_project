@@ -1,3 +1,6 @@
+[![Tests](https://github.com/nkkasu/swtesting_project/actions/workflows/Tests.yml/badge.svg)](https://github.com/nkkasu/swtesting_project/actions/workflows/Tests.yml)
+[![Coverage Status](https://coveralls.io/repos/github/nkkasu/swtesting_project/badge.svg?branch=main)](https://coveralls.io/github/nkkasu/swtesting_project?branch=main)
+
 # Software testing project
 
 Repository for software testing project second part, in which we implemented tests for 
